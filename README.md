@@ -33,3 +33,8 @@ ChatBot/
 Customize intents.py to add new chatbot responses.
 
 Designed for educational/demo purposes — not production-ready.
+
+Developed By
+Parth Shinge
+TY AIML
+D. Y. Patil Agriculture & Technical University, Talsande.

@@ -193,7 +193,7 @@ intents = {
             "Do you offer internships?"
         ],
         "response": [
-            "Yes, internships are part of many programs."
+            "Yes — internships are integrated into many of our programs. Our placement cell coordinates opportunities, supports students with applications and industry projects, and can help you find a suitable internship. Would you like details on eligibility or current openings?"
         ]
     },
     "Internship & Placement - Career Prospects": {

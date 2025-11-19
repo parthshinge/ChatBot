@@ -437,10 +437,12 @@ intents = {
     },
     "360 View": {
         "training_phrases": [
-            "360 View of College"
+            "360 View of College",
+            "i want see your plz give me 360 view of your clg"
         ],
         "response": [
             "360 View of College: <a href='https://kuula.co/share/collection/7KLz2?logo=1&info=0&fs=1&vr=1&gyro=0&initload=0&thumbs=1' target='_blank'>360</a>. "
         ]
     }
+
 }
